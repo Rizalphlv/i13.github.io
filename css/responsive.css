@@ -1,0 +1,11 @@
+/* footer */
+@media(max-width:670px)
+{
+    footer img{
+        width:60%;
+        height:auto;
+        margin-top:10px;
+       
+    }
+}
+
