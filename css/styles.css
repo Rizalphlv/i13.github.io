@@ -84,6 +84,13 @@ main {
   color: black;
   font-family: Arial, Helvetica, sans-serif;
 }
+.menu-icon {
+  color: white;
+  float: right;
+  font-size: 50px;
+  padding: 30px 25px;
+  display: none;
+}
 .container {
   margin: 10px;
   padding: 10px;
