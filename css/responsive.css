@@ -1,6 +1,50 @@
-/* footer */
-@media(max-width:670px)
-{
+/*untuk tampilan smartphone*/
+@media all and (max-width:670px) {
+    main {
+		width: 100%;
+	}
+
+	.container h1 {
+		font-size: 20px;
+	}
+
+	.img-content {
+		width: 100px;
+		height: 135px;
+	}
+
+	.side-right {
+		width: 95%;
+		text-align: left;
+	}
+
+	.side-right p {
+		font-size: 15px;
+	}
+
+	.line {
+		margin-bottom: 20px;
+	}
+
+	.linktowiki {
+		width: 100%;
+		margin-top: 30px;
+		text-align: center;
+	}
+
+	.header-cont {
+		display: none;
+	}
+
+	.menu-icon {
+		display: block;
+  	}
+
+    /* footer */
+	footer {
+		margin-top: 20px;
+	}
+    
     footer img{
         width:60%;
         height:auto;
